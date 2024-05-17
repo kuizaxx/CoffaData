@@ -1,0 +1,39 @@
+﻿ten,donvi,kyhieu,giatri
+Bề dày sàn,m,hs,0
+Trọng lương riêng,kN/m3,g,25
+Chiều dày ván,m,h1,0
+Bề rộng dải,m,b,1
+Momen quán tính,cm4,I1,0
+Momen kháng uốn,cm3,W1,0
+Ứng suất kéo cho phép,kN/m2,f1,18000
+Modun đàn hồi,kN/m2,E1,5000000
+Loại đà phụ,,xagophu,0
+Momen quán tính,cm4,I2,0
+Momen kháng uốn,cm3,W2,0
+Ứng suất kéo cho phép,kN/m2,f2,210000
+Ứng suất cắt cho phép,kN/m2,fv2,121800
+Modun đàn hồi,kN/m2,E2,210000000
+Loại đà chính,,xagochinh,0
+Momen quán tính,cm4,I3,0
+Momen kháng uốn,cm3,W3,0
+Ứng suất kéo cho phép,kN/m2,f3,210000
+Ứng suất cắt cho phép,kN/m2,fv3,121800
+Modun đàn hồi,kN/m2,E3,210000000
+Tải trọng cho phép 1 đầu giáo,kN,P,0
+Khoảng cách đà phụ,m,L1,0
+Khoảng cách đà chính,m,L2,0
+Khoảng cách 2 cây chống,m,L3,0
+Tải trọng tiêu chuẩn bê tông ,kN/m2,ptc1,0
+Tải trọng tiêu chuẩn hệ gián giáo,kN/m2,ptc2,1
+Tải trọng tiêu chuẩn người và thiết bị,kN/m2,ptc3,2.5
+Tải trọng tiêu chuẩn do đầm rung,kN/m2,ptc4,2
+Tổng tải trọng tiêu chuẩn,kN/m2,ptc,0
+Hệ số vượt tải bê tông ,,n1,1.2
+Hệ số vượt tải hệ gián giáo,,n2,1.1
+Hệ số vượt tải người và thiết bị,,n3,1.3
+Hệ số vượt tải do đầm rung,,n4,1.3
+Tải trọng tính toán bê tông ,kN/m2,ptt1,0
+Tải trọng tính toán hệ gián giáo,kN/m2,ptt2,1.1
+Tải trọng tính toán người và thiết bị,kN/m2,ptt3,3.25
+Tải trọng tính toán do đầm rung,kN/m2,ptt4,2.6
+Tổng tải trọng tính toán,kN/m2,ptt,0
